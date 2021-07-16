@@ -92,3 +92,12 @@
 
 - Bình thường nếu như chi phí bán hàng tăng thì giá bán trung bình rất dễ phải tăng theo do phải gánh thêm phần chi phí, nhưng nhà sản xuất đã có thể giữ giá bán trung bình gần như cố định qua hàng năm nhờ vào doanh số có tốc độ tăng trưởng mạnh hơn kéo theo doanh thu và lãi cũng tăng mạnh. Nói cách khác, VNM đã mở rộng quy mô thị trường của mình mà không tăng tỉ lệ lãi trên mỗi sản phẩm.
   
+## Doanh thu bán hàng và Chi phí bán hàng (VNM)
+- Quan sát các điểm trên biểu đồ và đường hồi quy, ta có thể thấy Doanh thu bán hàng và Chi phí bán hàng tương quan thuận chiều và khá cao với nhau (R^2 = 88.43%, p-value < 0.0001, Doanh thu bán hàng =  3.5 * chi phí bán hàng - 3149080).
+- Qua biểu đồ, có thể thấy chi phí bán hàng có ảnh hưởng tới doanh thu. Để việc bán hàng được thuận lợi, chi phí luôn chiếm khoảng 28.5% doanh thu.
+- Ngoài ra, qua đồ thị, sự tương quan này chặt chẽ hơn khi Chi phí bán hàng < 2000000. Điều này có lẽ liên quan đến quy mô bán hàng, khi quy mô nhỏ, doanh thu thấp nhưng lại dễ quản lí chi phí bán hàng. Mặt khác, khi quy mô lớn, doanh thu cao thì tỉ lệ chi phí bán hàng sẽ được tiết kiệm hơn.
+
+## Doanh thu bán hàng và Giá vốn bán hàng (VNM)
+- Các điểm trên biểu đồ gần như nằm trên một đường thẳng và có xu hướng đi lên, điều đó thể hiện sự tương quan của doanh thu bán hàng với giá vốn bán hàng là tương quan thuận chiều và rất chặt chẽ.
+- Các điều trên còn được cụ thể qua đường hồi quy có R^2 = 97.6%, p-value < 0.0001.
+- Qua biểu đồ trên, ta rút ra được là giá vốn có quan hệ rất chặt chẽ với doanh thu và quyết định doanh thu. Ngoài ra, có thể thấy VNM là một công ty lớn, có kế hoạch rõ ràng về tài chính, luôn giữ đúng tỉ lệ của giá vốn và doanh thu ở mức cố định là Doanh thu bán hàng =  1.95 * Giá vốn bán hàng - 1176150.
