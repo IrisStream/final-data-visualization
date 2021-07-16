@@ -16,7 +16,7 @@ Vẽ biểu đồ tương quan giữa các biểu đồ sau đây với tableau.
   - Sơn: `Marketing` vs `Chi phí bán hàng`
   - Tú: `Doanh thu bán hàng` vs `Lợi nhuận thuần`
   - Bảo Bảo: `Marketing` vs `Lợi nhuận thuần`
-  - Minh Phương: `Chi phí bán hàng` vs `Giá vốn trung bình`
+  - Minh Phương: `Chi phí bán hàng` vs `Giá bán trung bình`
   - Hiên: `Doanh thu bán hàng` vs `Giá vốn bán hàng`
   - Sơn: `Marketing` vs `Giá vốn bán hàng`
 

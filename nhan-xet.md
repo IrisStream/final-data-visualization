@@ -72,7 +72,7 @@
 - Giá vốn bán hàng của một công ty sản xuất (cụ thể ở đây là HNM) bao gồm chi phí cấu thành sản phẩm (nguyên liệu, khấu hao máy móc,...) và chi phí bổ sung cần thiết (kho bãi, vận chuyển,...) Chi phí marketing, do đó, là một bộ phận cấu thành của giá vốn bán hàng
 
 - Quan sát biểu đồ, ta dễ dàng nhận ra, trong hầu hết các năm từ 2008 đến 2020:
-    - Giá vốn bán hàng và chi phí dùng cho marketingcó xu hướng giảm dần do sự thu hẹp thị trường của HNM trước các đối thủ cạnh tranh mạnh như THTrueMilk và Vinamilk
+    - Giá vốn bán hàng và chi phí dùng cho marketing có xu hướng giảm dần do sự thu hẹp thị trường của HNM trước các đối thủ cạnh tranh mạnh như THTrueMilk và Vinamilk
     - 2 đại lượng này luôn biến thiên đồng biến với nhau. Ngoại trừ năm 2015, khi đó, giá vốn bán hàng tăng khoảng 40.5 tỷ so với năm 2014 nhưng chi phí marketing vẫn giảm đều cho tới khi đạt mức thấp nhất (11.3 tỷ) vào năm 2016
     - Phương trình đồng biến: **Sơn fill hộ t đoạn này nha :((**
 
@@ -82,5 +82,13 @@
 
 - Từ năm 2007 đến năm 2020, cả lợi nhuận thuần lẫn chi phí marketing của VNM tăng trưởng đều. Do đó, giữa 2 đại lượng này tồn tại một quan hệ đồng biến. Phương trình đồng biến: **Sơn fill hộ t đoạn này nha :((**
 
-- Tuy nhiên, sau khi đổ vào gần 12.000 tỷ cho marketing vào năm 2019 thì đến năm 2020, lợi nhuận thuần không biến thiên đồng biến mà tụt dốc chóng mặt từ 13.000 tỷ vào năm 2019 xuống còn 8.000 tỷ vào năm 2020
+- Tuy nhiên, sau khi đổ vào gần 12.000 tỷ cho marketing vào năm 2019 thì đến năm 2020, lợi nhuận thuần không biến thiên đồng biến mà tụt dốc chóng mặt từ 13.000 tỷ vào năm 2019 xuống còn 8.000 tỷ vào năm 2020 **2020 Vinamilk bị scandal dìm á, P nhớ thế**
+  
+## Chi phi bán hàng và Giá bán trung bình của VNM
+
+![`Marketing` và Lợi nhuận thuần của VNM](./img/marketing_profit_vnm.png)
+
+- Từ năm 2007 đến năm 2020, chi phí bán hàng tăng nhanh nhưng giá bán trung bình lại không thay đổi nhiều. Do đó, giữa 2 đại lượng này không tồn tại một mối tương quan cụ thể.
+
+- Bình thường nếu như chi phí bán hàng tăng thì giá bán trung bình rất dễ phải tăng theo do phải gánh thêm phần chi phí, nhưng nhà sản xuất đã có thể giữ giá bán trung bình gần như cố định qua hàng năm nhờ vào doanh số có tốc độ tăng trưởng mạnh hơn kéo theo doanh thu và lãi cũng tăng mạnh. Nói cách khác, VNM đã mở rộng quy mô thị trường của mình mà không tăng tỉ lệ lãi trên mỗi sản phẩm.
   
