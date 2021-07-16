@@ -52,3 +52,15 @@
 
 - Rõ ràng, chi phí Marketing sẽ liên hệ đến giá vốn. Giá vốn của sản phẩm sẽ bằng giá thành sản phẩm cộng với chi phí marketing cho sản phẩm đó.
 - Đối với VNM, Marketing chiếm phần nhiều hơn trong giá vốn so với HNM. Điều này chứng tỏ, trong các chi phí liên quan đến sản phẩm, VNM chú trọng đến Marketing nhiều hơn so với HNM.
+
+## Doanh thu bán hàng và Giá vốn bán hàng
+
+- Dựa theo sự phân bố của các chấm dữ liệu thì ta có thể dễ dàng thấy được mối tương quan của hai biến **Doanh thu bán hàng** và **Giá vốn bán hàng** của Hanoimilk là rất cao. Các chấm dữ liệu gần nhau và thể hiện tỉ lệ thuận với nhau. Điều này là khá dễ hiểu vì giá vốn bán hàng bỏ ra càng nhiều tức là sản xuất, vận chuyển sản phẩm càng nhiều, từ đó nguồn cung sản phẩm dồi dào, phân bố sản phẩm rộng rãi hơn và doanh thu bán hàng cũng sẽ tăng lên.
+- Và trong biểu đồ này còn có biểu diễn một đường tuyến tính chính là đường biểu diễn xu hướng với độ chính xác rất cao, các giá trị R2 đạt trên 85% và p-value nhỏ hơn 0.001:  
+  _Doanh thu bán hàng = 1.20772 x Giá vốn bán hàng + 4763.22_
+
+## Doanh thu bán hàng và Lợi nhuận thuần
+
+- Biểu đồ scatter plot cho thấy mối tương quan của hai biến **Doanh thu bán hàng** và **Lợi nhuận thuần** của Vinamilk là khá cao. Các chấm dữ liệu cho thấy hai biến này tỉ lệ thuận và có xu hướng tăng. Điều này là điều tất nhiên vì doanh thu bán hàng càng tăng thì lợi nhuận thuần hay khoản lợi thu được của công ty càng tăng.
+- Và ta dễ dàng nhận ra được mối tương quan của hai biến dựa theo đường tuyến tính biểu diễn xu hướng với độ chính xác khá cao (R2 đạt trên 80% và P-value < 0.0001):  
+  _Lợi nhuận thuần = 0.000201253 x Doanh thu bán hàng + 118.612_
