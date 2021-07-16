@@ -64,3 +64,23 @@
 - Biểu đồ scatter plot cho thấy mối tương quan của hai biến **Doanh thu bán hàng** và **Lợi nhuận thuần** của Vinamilk là khá cao. Các chấm dữ liệu cho thấy hai biến này tỉ lệ thuận và có xu hướng tăng. Điều này là điều tất nhiên vì doanh thu bán hàng càng tăng thì lợi nhuận thuần hay khoản lợi thu được của công ty càng tăng.
 - Và ta dễ dàng nhận ra được mối tương quan của hai biến dựa theo đường tuyến tính biểu diễn xu hướng với độ chính xác khá cao (R2 đạt trên 80% và P-value < 0.0001):  
   _Lợi nhuận thuần = 0.000201253 x Doanh thu bán hàng + 118.612_
+  
+  ## Marketing và Giá vốn bán hàng của HNM
+
+![`Marketing` và Giá vốn bán hàng của HNM](./img/budget_marketing_hnm.png)
+
+- Giá vốn bán hàng của một công ty sản xuất (cụ thể ở đây là HNM) bao gồm chi phí cấu thành sản phẩm (nguyên liệu, khấu hao máy móc,...) và chi phí bổ sung cần thiết (kho bãi, vận chuyển,...) Chi phí marketing, do đó, là một bộ phận cấu thành của giá vốn bán hàng
+
+- Quan sát biểu đồ, ta dễ dàng nhận ra, trong hầu hết các năm từ 2008 đến 2020:
+    - Giá vốn bán hàng và chi phí dùng cho marketingcó xu hướng giảm dần do sự thu hẹp thị trường của HNM trước các đối thủ cạnh tranh mạnh như THTrueMilk và Vinamilk
+    - 2 đại lượng này luôn biến thiên đồng biến với nhau. Ngoại trừ năm 2015, khi đó, giá vốn bán hàng tăng khoảng 40.5 tỷ so với năm 2014 nhưng chi phí marketing vẫn giảm đều cho tới khi đạt mức thấp nhất (11.3 tỷ) vào năm 2016
+    - Phương trình đồng biến: **Sơn fill hộ t đoạn này nha :((**
+
+## Marketing và Lợi nhuận thuần của VNM
+
+![`Marketing` và Lợi nhuận thuần của VNM](./img/marketing_profit_vnm.png)
+
+- Từ năm 2007 đến năm 2020, cả lợi nhuận thuần lẫn chi phí marketing của VNM tăng trưởng đều. Do đó, giữa 2 đại lượng này tồn tại một quan hệ đồng biến. Phương trình đồng biến: **Sơn fill hộ t đoạn này nha :((**
+
+- Tuy nhiên, sau khi đổ vào gần 12.000 tỷ cho marketing vào năm 2019 thì đến năm 2020, lợi nhuận thuần không biến thiên đồng biến mà tụt dốc chóng mặt từ 13.000 tỷ vào năm 2019 xuống còn 8.000 tỷ vào năm 2020
+  
