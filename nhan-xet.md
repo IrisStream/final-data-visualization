@@ -35,3 +35,14 @@
 - Nhìn chung, cả 2 công ti đều thúc đẩy công tác marketing của mình và khoảng Q2. Có thể thấy mùa hè là lúc mà thị trường sữa trở nên sôi nổi.
 
 # Nhiều biến
+## Doanh thu bán hàng và Giá vốn bán hàng
+-	Biểu đồ scatter plot cho thấy mối tương quan của hai biến **Doanh thu bán hàng** và **Giá vốn bán hàng** của Hanoimilk là rất cao.
+-	Các chấm dữ liệu cho thấy xu hướng của hai biến: hai biến tỉ lệ thuận với nhau và có xu hướng tăng
+-	Dễ dàng nhận ra được mối tương quan của hai biến dựa theo đường biểu diễn xu hướng (tuyến tính) với độ chính xác rất cao (R2 đạt trên 85% và P-value < 0.0001):  
+*Doanh thu bán hàng = 1.20772 x Giá vốn bán hàng + 4763.22*
+
+## Doanh thu bán hàng và Lợi nhuận thuần
+-	Biểu đồ scatter plot cho thấy mối tương quan của hai biến **Doanh thu bán hàng** và **Lợi nhuận thuần** của Vinamilk là khá cao
+-	Các chấm dữ liệu cho thấy hai biến này tỉ lệ thuận và có xu hướng tăng
+-	Dễ dàng nhận ra được mối tương quan của hai biến dựa theo đường tuyến tính biểu diễn xu hướng với độ chính xác khá cao (R2 đạt trên 80% và P-value < 0.0001):  
+*Lợi nhuận thuần = 0.000201253 x Doanh thu bán hàng + 118.612*
