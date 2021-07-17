@@ -53,51 +53,44 @@
 - Rõ ràng, chi phí Marketing sẽ liên hệ đến giá vốn. Giá vốn của sản phẩm sẽ bằng giá thành sản phẩm cộng với chi phí marketing cho sản phẩm đó.
 - Đối với VNM, Marketing chiếm phần nhiều hơn trong giá vốn so với HNM. Điều này chứng tỏ, trong các chi phí liên quan đến sản phẩm, VNM chú trọng đến Marketing nhiều hơn so với HNM.
 
-## Doanh thu bán hàng và Giá vốn bán hàng
+## Marketing và Giá vốn bán hàng của HNM
+
+![`Marketing` và Giá vốn bán hàng của HNM](./img/budget_marketing_hnm.png)
+
+- Giá vốn bán hàng của một công ty sản xuất (cụ thể ở đây là HNM) bao gồm chi phí cấu thành sản phẩm (nguyên liệu, khấu hao máy móc,...) và chi phí bổ sung cần thiết (kho bãi, vận chuyển,...) Chi phí marketing, do đó, là một bộ phận cấu thành của giá vốn bán hàng
+
+- Quan sát biểu đồ, ta dễ dàng nhận ra, trong hầu hết các năm từ 2007 đến 2020:
+  - Giá vốn bán hàng và chi phí dùng cho marketing có xu hướng giảm dần do sự thu hẹp thị trường của HNM trước các đối thủ cạnh tranh mạnh như THTrueMilk và Vinamilk
+  - 2 đại lượng này luôn biến thiên đồng biến với nhau. Ngoại trừ năm 2015, khi đó, giá vốn bán hàng tăng khoảng 40.5 tỷ so với năm 2014 nhưng chi phí marketing vẫn giảm đều cho tới khi đạt mức thấp nhất (11.3 tỷ) vào năm 2016
+
+## Doanh thu bán hàng và Giá vốn bán hàng (HNM)
 
 - Dựa theo sự phân bố của các chấm dữ liệu thì ta có thể dễ dàng thấy được mối tương quan của hai biến **Doanh thu bán hàng** và **Giá vốn bán hàng** của Hanoimilk là rất cao. Các chấm dữ liệu gần nhau và thể hiện tỉ lệ thuận với nhau. Điều này là khá dễ hiểu vì giá vốn bán hàng bỏ ra càng nhiều tức là sản xuất, vận chuyển sản phẩm càng nhiều, từ đó nguồn cung sản phẩm dồi dào, phân bố sản phẩm rộng rãi hơn và doanh thu bán hàng cũng sẽ tăng lên.
 - Và trong biểu đồ này còn có biểu diễn một đường tuyến tính chính là đường biểu diễn xu hướng với độ chính xác rất cao, các giá trị R2 đạt trên 85% và p-value nhỏ hơn 0.001:  
   _Doanh thu bán hàng = 1.20772 x Giá vốn bán hàng + 4763.22_
+
+## Doanh thu bán hàng và Giá vốn bán hàng (VNM)
+
+- Các điểm trên biểu đồ gần như nằm trên một đường thẳng và có xu hướng đi lên, điều đó thể hiện sự tương quan của doanh thu bán hàng với giá vốn bán hàng là tương quan thuận chiều và rất chặt chẽ.
+- Các điều trên còn được cụ thể qua đường hồi quy có R^2 = 97.6%, p-value < 0.0001.
+- Qua biểu đồ trên, ta rút ra được là giá vốn có quan hệ rất chặt chẽ với doanh thu và quyết định doanh thu. Ngoài ra, có thể thấy VNM là một công ty lớn, có kế hoạch rõ ràng về tài chính, luôn giữ đúng tỉ lệ của giá vốn và doanh thu ở mức cố định là Doanh thu bán hàng = 1.95 \* Giá vốn bán hàng - 1176150.
 
 ## Doanh thu bán hàng và Lợi nhuận thuần
 
 - Biểu đồ scatter plot cho thấy mối tương quan của hai biến **Doanh thu bán hàng** và **Lợi nhuận thuần** của Vinamilk là khá cao. Các chấm dữ liệu cho thấy hai biến này tỉ lệ thuận và có xu hướng tăng. Điều này là điều tất nhiên vì doanh thu bán hàng càng tăng thì lợi nhuận thuần hay khoản lợi thu được của công ty càng tăng.
 - Và ta dễ dàng nhận ra được mối tương quan của hai biến dựa theo đường tuyến tính biểu diễn xu hướng với độ chính xác khá cao (R2 đạt trên 80% và P-value < 0.0001):  
   _Lợi nhuận thuần = 0.000201253 x Doanh thu bán hàng + 118.612_
-  
-  ## Marketing và Giá vốn bán hàng của HNM
-
-![`Marketing` và Giá vốn bán hàng của HNM](./img/budget_marketing_hnm.png)
-
-- Giá vốn bán hàng của một công ty sản xuất (cụ thể ở đây là HNM) bao gồm chi phí cấu thành sản phẩm (nguyên liệu, khấu hao máy móc,...) và chi phí bổ sung cần thiết (kho bãi, vận chuyển,...) Chi phí marketing, do đó, là một bộ phận cấu thành của giá vốn bán hàng
-
-- Quan sát biểu đồ, ta dễ dàng nhận ra, trong hầu hết các năm từ 2008 đến 2020:
-    - Giá vốn bán hàng và chi phí dùng cho marketing có xu hướng giảm dần do sự thu hẹp thị trường của HNM trước các đối thủ cạnh tranh mạnh như THTrueMilk và Vinamilk
-    - 2 đại lượng này luôn biến thiên đồng biến với nhau. Ngoại trừ năm 2015, khi đó, giá vốn bán hàng tăng khoảng 40.5 tỷ so với năm 2014 nhưng chi phí marketing vẫn giảm đều cho tới khi đạt mức thấp nhất (11.3 tỷ) vào năm 2016
-    - Phương trình đồng biến: **Sơn fill hộ t đoạn này nha :((**
 
 ## Marketing và Lợi nhuận thuần của VNM
 
 ![`Marketing` và Lợi nhuận thuần của VNM](./img/marketing_profit_vnm.png)
 
-- Từ năm 2007 đến năm 2020, cả lợi nhuận thuần lẫn chi phí marketing của VNM tăng trưởng đều. Do đó, giữa 2 đại lượng này tồn tại một quan hệ đồng biến. Phương trình đồng biến: **Sơn fill hộ t đoạn này nha :((**
+- Từ năm 2007 đến năm 2020, cả lợi nhuận thuần lẫn chi phí marketing của VNM tăng trưởng đều. Do đó, giữa 2 đại lượng này tồn tại một quan hệ đồng biến.
 
 - Tuy nhiên, sau khi đổ vào gần 12.000 tỷ cho marketing vào năm 2019 thì đến năm 2020, lợi nhuận thuần không biến thiên đồng biến mà tụt dốc chóng mặt từ 13.000 tỷ vào năm 2019 xuống còn 8.000 tỷ vào năm 2020 **2020 Vinamilk bị scandal dìm á, P nhớ thế**
-  
-## Chi phi bán hàng và Giá bán trung bình của VNM
 
-![`Marketing` và Lợi nhuận thuần của VNM](./img/marketing_profit_vnm.png)
-
-- Từ năm 2007 đến năm 2020, chi phí bán hàng tăng nhanh nhưng giá bán trung bình lại không thay đổi nhiều. Do đó, giữa 2 đại lượng này không tồn tại một mối tương quan cụ thể.
-
-- Bình thường nếu như chi phí bán hàng tăng thì giá bán trung bình rất dễ phải tăng theo do phải gánh thêm phần chi phí, nhưng nhà sản xuất đã có thể giữ giá bán trung bình gần như cố định qua hàng năm nhờ vào doanh số có tốc độ tăng trưởng mạnh hơn kéo theo doanh thu và lãi cũng tăng mạnh. Nói cách khác, VNM đã mở rộng quy mô thị trường của mình mà không tăng tỉ lệ lãi trên mỗi sản phẩm.
-  
 ## Doanh thu bán hàng và Chi phí bán hàng (VNM)
-- Quan sát các điểm trên biểu đồ và đường hồi quy, ta có thể thấy Doanh thu bán hàng và Chi phí bán hàng tương quan thuận chiều và khá cao với nhau (R^2 = 88.43%, p-value < 0.0001, Doanh thu bán hàng =  3.5 * chi phí bán hàng - 3149080).
+
+- Quan sát các điểm trên biểu đồ và đường hồi quy, ta có thể thấy Doanh thu bán hàng và Chi phí bán hàng tương quan thuận chiều và khá cao với nhau (R^2 = 88.43%, p-value < 0.0001, Doanh thu bán hàng = 3.5 \* chi phí bán hàng - 3149080).
 - Qua biểu đồ, có thể thấy chi phí bán hàng có ảnh hưởng tới doanh thu. Để việc bán hàng được thuận lợi, chi phí luôn chiếm khoảng 28.5% doanh thu.
 - Ngoài ra, qua đồ thị, sự tương quan này chặt chẽ hơn khi Chi phí bán hàng < 2000000. Điều này có lẽ liên quan đến quy mô bán hàng, khi quy mô nhỏ, doanh thu thấp nhưng lại dễ quản lí chi phí bán hàng. Mặt khác, khi quy mô lớn, doanh thu cao thì tỉ lệ chi phí bán hàng sẽ được tiết kiệm hơn.
-
-## Doanh thu bán hàng và Giá vốn bán hàng (VNM)
-- Các điểm trên biểu đồ gần như nằm trên một đường thẳng và có xu hướng đi lên, điều đó thể hiện sự tương quan của doanh thu bán hàng với giá vốn bán hàng là tương quan thuận chiều và rất chặt chẽ.
-- Các điều trên còn được cụ thể qua đường hồi quy có R^2 = 97.6%, p-value < 0.0001.
-- Qua biểu đồ trên, ta rút ra được là giá vốn có quan hệ rất chặt chẽ với doanh thu và quyết định doanh thu. Ngoài ra, có thể thấy VNM là một công ty lớn, có kế hoạch rõ ràng về tài chính, luôn giữ đúng tỉ lệ của giá vốn và doanh thu ở mức cố định là Doanh thu bán hàng =  1.95 * Giá vốn bán hàng - 1176150.
