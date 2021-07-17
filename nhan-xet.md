@@ -87,10 +87,18 @@
 
 - Từ năm 2007 đến năm 2020, cả lợi nhuận thuần lẫn chi phí marketing của VNM tăng trưởng đều. Do đó, giữa 2 đại lượng này tồn tại một quan hệ đồng biến.
 
-- Tuy nhiên, sau khi đổ vào gần 12.000 tỷ cho marketing vào năm 2019 thì đến năm 2020, lợi nhuận thuần không biến thiên đồng biến mà tụt dốc chóng mặt từ 13.000 tỷ vào năm 2019 xuống còn 8.000 tỷ vào năm 2020 **2020 Vinamilk bị scandal dìm á, P nhớ thế**
+- Tuy nhiên, sau khi đổ vào gần 12.000 tỷ cho marketing vào năm 2019 thì đến năm 2020, lợi nhuận thuần không biến thiên đồng biến mà tụt dốc chóng mặt từ 13.000 tỷ vào năm 2019 xuống còn 8.000 tỷ vào năm 2020
 
 ## Doanh thu bán hàng và Chi phí bán hàng (VNM)
 
 - Quan sát các điểm trên biểu đồ và đường hồi quy, ta có thể thấy Doanh thu bán hàng và Chi phí bán hàng tương quan thuận chiều và khá cao với nhau (R^2 = 88.43%, p-value < 0.0001, Doanh thu bán hàng = 3.5 \* chi phí bán hàng - 3149080).
 - Qua biểu đồ, có thể thấy chi phí bán hàng có ảnh hưởng tới doanh thu. Để việc bán hàng được thuận lợi, chi phí luôn chiếm khoảng 28.5% doanh thu.
 - Ngoài ra, qua đồ thị, sự tương quan này chặt chẽ hơn khi Chi phí bán hàng < 2000000. Điều này có lẽ liên quan đến quy mô bán hàng, khi quy mô nhỏ, doanh thu thấp nhưng lại dễ quản lí chi phí bán hàng. Mặt khác, khi quy mô lớn, doanh thu cao thì tỉ lệ chi phí bán hàng sẽ được tiết kiệm hơn.
+
+## Chi phí bán hàng và Giá bán trung bình của VNM
+
+![`Chi phí bán hàng` và 'Giá bán trung bình' của VNM](./img/cost_avgprice_vnm.png)
+
+- Từ năm 2007 đến năm 2020, chi phí bán hàng tăng nhanh nhưng giá bán trung bình lại không thay đổi nhiều. Do đó, giữa 2 đại lượng này không tồn tại một mối tương quan cụ thể.
+
+- Bình thường nếu như chi phí bán hàng tăng thì giá bán trung bình rất dễ phải tăng theo do phải gánh thêm phần chi phí, nhưng nhà sản xuất đã có thể giữ giá bán trung bình gần như cố định qua hàng năm nhờ vào doanh số có tốc độ tăng trưởng mạnh hơn kéo theo doanh thu và lãi cũng tăng mạnh. Nói cách khác, VNM đã mở rộng quy mô thị trường của mình mà không tăng tỉ lệ lãi trên mỗi sản phẩm.
