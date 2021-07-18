@@ -29,3 +29,6 @@ Vẽ biểu đồ tương quan giữa các biểu đồ sau đây với tableau.
 - Giải thích các mối liên quan nếu có thể
 
 _\* Deadline đến 22h 16/07_
+
+## Link video
+https://drive.google.com/drive/folders/1ckEKtQFrtcaiUnfbb8IfugcOU3NP6jT3?usp=sharing

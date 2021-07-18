@@ -87,7 +87,7 @@
 
 - Từ năm 2007 đến năm 2020, cả lợi nhuận thuần lẫn chi phí marketing của VNM tăng trưởng đều. Do đó, giữa 2 đại lượng này tồn tại một quan hệ đồng biến.
 
-- Tuy nhiên, sau khi đổ vào gần 12.000 tỷ cho marketing vào năm 2019 thì đến năm 2020, lợi nhuận thuần không biến thiên đồng biến mà tụt dốc chóng mặt từ 13.000 tỷ vào năm 2019 xuống còn 8.000 tỷ vào năm 2020 **2020 Vinamilk bị scandal dìm á, P nhớ thế**
+- Tuy nhiên, sau khi đổ vào gần 12.000 tỷ cho marketing vào năm 2019 thì đến năm 2020, lợi nhuận thuần không biến thiên đồng biến mà tụt dốc chóng mặt từ 13.000 tỷ vào năm 2019 xuống còn 8.000 tỷ vào năm 2020
 
 ## Doanh thu bán hàng và Chi phí bán hàng (VNM)
 
